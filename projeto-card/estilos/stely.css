@@ -11,7 +11,7 @@ main{
     height: 550px;
     margin: auto;
     box-shadow: 2px 5px 10px 2px rgba(0, 0, 0, 0.7);
-    margin-top: 50px;
+    margin-top: 30px;
     background-image:linear-gradient(to left, rgba(0, 24, 107, 1), rgba(65, 0, 205, 1));
     border-radius: 25px 25px 0px 0px; 
 
